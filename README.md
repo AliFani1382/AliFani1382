@@ -91,3 +91,8 @@ Domain
 
 The backend is organized into separate layers to keep business logic, API concerns, domain entities, and infrastructure responsibilities separated.
 
+### 🔗 Project Repositories
+
+* **Backend:** NewsPortal Backend
+* **Frontend:** NewsPortal Frontend
+
