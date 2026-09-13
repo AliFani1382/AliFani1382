@@ -96,3 +96,30 @@ The backend is organized into separate layers to keep business logic, API concer
 * **Backend:** NewsPortal Backend
 * **Frontend:** NewsPortal Frontend
 
+## 🎯 Career Goal
+
+I'm looking for opportunities as a **Junior Backend .NET Developer** where I can contribute to real-world projects, learn from experienced developers, and continue growing as a backend engineer.
+
+I'm particularly interested in working with:
+
+**C# · .NET · ASP.NET Core · Web APIs · SQL Server · Entity Framework Core**
+## 📚 Currently Learning
+
+* Advanced ASP.NET Core
+* Backend Architecture & Best Practices
+* Automated Testing
+* Secure API Development
+* Database Performance & Optimization
+* Professional Software Development Practices
+* ## 📫 Connect With Me
+
+* 💻 GitHub: AliFani1382
+* 💼 LinkedIn: Add your LinkedIn profile
+* 📧 Email: Add your professional email
+
+---
+
+⭐ Thanks for visiting my profile!
+
+
+
