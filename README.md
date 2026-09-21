@@ -4,9 +4,9 @@
 
 I'm a Junior Backend .NET Developer focused on building practical and maintainable backend applications with C# and ASP.NET Core.
 
-I enjoy building RESTful APIs, working with databases, implementing authentication and authorization, and designing backend systems using clean and maintainable architecture.
+I enjoy building RESTful APIs, working with databases, implementing authentication and authorization, and developing applications with clean and maintainable architecture.
 
-I'm currently focused on improving my skills in the .NET ecosystem and building real-world projects through hands-on development.
+I'm currently improving my backend development skills through hands-on projects and continuous learning.
 
 ## 🛠️ Tech Stack
 
@@ -44,57 +44,23 @@ I'm currently focused on improving my skills in the .NET ecosystem and building 
 * Serilog
 * Postman
 * Visual Studio
+
 ## 🚀 Featured Project
 
 ### 📰 NewsPortal
 
-A full-stack news platform built with **ASP.NET Core Web API and React**, with a focus on backend architecture, authentication, authorization, database management, and real-world business workflows.
+A full-stack news platform built with ASP.NET Core Web API and React.
+
+The project focuses on backend development, authentication and authorization, database management, API design, and real-world business workflows.
 
 **Backend:** .NET 9 · ASP.NET Core Web API · Entity Framework Core · SQL Server
 
-### Key Features
-
-* 🔐 JWT Authentication & Authorization
-* 👤 User & Admin Roles
-* 📰 News Management
-* 🔄 News Submission & Approval Workflow
-* 🔗 SEO-friendly Slugs
-* 🏷️ Categories, Cities & Tags
-* 🖼️ Multiple Images per News
-* 💬 Comments & Moderation
-* 👍 Reactions
-* 🔖 Bookmarks
-* 🔔 Notifications
-* 📧 Email Verification
-* 🔑 Password Reset
-* 📰 Newsletter Subscription
-* 🔥 Popular News
-* ⭐ Featured News
-* 🔗 Related News
-* ✅ FluentValidation
-* ⚠️ Global Exception Handling
-* 📊 Serilog Logging
-* 🚦 Rate Limiting
-* 📚 Swagger / OpenAPI
-
-### Architecture
-
-```text
-API
- ↓
-Application
- ↓
-Infrastructure
- ↓
-Domain
-```
-
-The backend is organized into separate layers to keep business logic, API concerns, domain entities, and infrastructure responsibilities separated.
+**Frontend:** React · Vite
 
 ### 🔗 Project Repositories
 
-* **Backend:** NewsPortal Backend
-* **Frontend:** NewsPortal Frontend
+* [NewsPortal Backend](https://github.com/AliFani1382/newsportal-backend)
+* [NewsPortal Frontend](https://github.com/AliFani1382/newsportal-frontend)
 
 ## 🎯 Career Goal
 
@@ -103,6 +69,7 @@ I'm looking for opportunities as a **Junior Backend .NET Developer** where I can
 I'm particularly interested in working with:
 
 **C# · .NET · ASP.NET Core · Web APIs · SQL Server · Entity Framework Core**
+
 ## 📚 Currently Learning
 
 * Advanced ASP.NET Core
@@ -111,14 +78,12 @@ I'm particularly interested in working with:
 * Secure API Development
 * Database Performance & Optimization
 * Professional Software Development Practices
-* ## 📫 Connect With Me
 
-* 💻 GitHub: AliFani1382
-* 📧 Email: alifani1382@gmail.com
+## 📫 Connect With Me
+
+* 💻 GitHub: [AliFani1382](https://github.com/AliFani1382)
+* 📧 Email: [alifani1382@gmail.com](mailto:alifani1382@gmail.com)
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
-
-
