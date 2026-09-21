@@ -114,8 +114,7 @@ I'm particularly interested in working with:
 * ## 📫 Connect With Me
 
 * 💻 GitHub: AliFani1382
-* 💼 LinkedIn: Add your LinkedIn profile
-* 📧 Email: Add your professional email
+* 📧 Email: alifani1382@gmail.com
 
 ---
 
