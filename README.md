@@ -74,7 +74,8 @@ I'm particularly interested in working with:
 
 * Advanced ASP.NET Core
 * Backend Architecture & Best Practices
-* Automated Testing
+* Unit & Integration Testing
+* Docker
 * Secure API Development
 * Database Performance & Optimization
 * Professional Software Development Practices
